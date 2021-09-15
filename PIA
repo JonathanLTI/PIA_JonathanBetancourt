@@ -1,0 +1,35 @@
+#Entrevista de trabajo
+
+print("#####Buen dia, a continuacion se presentara la entrevista. Debera contestar con completa sinceridad y seriedad.#####")
+
+print("Escribe tu nombre")
+Nombre = input ()
+
+print("Escribe tu apellido paterno")
+Apaterno = input ()
+
+print("Escribe tu apellido materno")
+Amaterno = input ()
+
+print("Escribe tu edad")
+Edad = input ("")
+
+print("Tu estado civil")
+EstadoCiv = input ()
+
+print("¿Tienes experiencia?")
+Experiencia = input ()
+
+print("¿Tienes deudas?")
+Deudas = input ()
+
+print("¿Por qué te interesa el puesto?")
+Interes = input ()
+
+print("¿Por qué deberíamos contratarte?")
+Contratar = input ()
+
+print("Escribe tu numero de telefono")
+NumeroTel = input ()
+
+print("Con esto termina la entrevista virtual, espera nuestra llamada. Gracias por buscar trabajo con nosotros:)")
