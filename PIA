@@ -1,6 +1,6 @@
-#Entrevista de trabajo
+#El propósito de este código es solucionar el problema que tiene una empresa al hacer realizar una entrevista de trabajo, ya que, por el Covid-19 es una mejor opción que arriesgarse a hacer una entrevista presencialmente.
 
-print("#####Buen dia, a continuacion se presentara la entrevista. Debera contestar con completa sinceridad y seriedad.#####")
+print("Buen dia, a continuacion se presentara la entrevista. Debera contestar con completa sinceridad y seriedad.")
 
 print("Escribe tu nombre")
 Nombre = input ()
@@ -20,8 +20,26 @@ EstadoCiv = input ()
 print("¿Tienes experiencia?")
 Experiencia = input ()
 
-print("¿Tienes deudas?")
+print("¿Cuáles son tus puntos fuertes?")
 Deudas = input ()
+
+print("¿Qué significa para ti el trabajo?")
+Respuesta = input ()
+
+print("¿Si ganara la lotería, seguiría viniendo a trabajar?")
+Respuesta = input ()
+
+print("¿En qué áreas crees que necesitarías reciclarte?")
+Respuesta = input ()
+
+print("¿Qué experiencia tienes en relación con este trabajo?")
+Respuesta = input ()
+
+print("¿Cuáles crees que serían tus funciones si fueras contratado por nosotros?")
+Respuesta = input ()
+
+print("¿No te parece que este puesto es superior a los que has ocupado con anterioridad?")
+Respuesta = input ()
 
 print("¿Por qué te interesa el puesto?")
 Interes = input ()
@@ -29,7 +47,10 @@ Interes = input ()
 print("¿Por qué deberíamos contratarte?")
 Contratar = input ()
 
-print("Escribe tu numero de telefono")
+print("Escribe tu número de teléfono")
 NumeroTel = input ()
 
-print("Con esto termina la entrevista virtual, espera nuestra llamada. Gracias por buscar trabajo con nosotros:)")
+print("Gracias por contestar adecuadamente cada pregunta de esta entrevista, se a registrado correctamente, entre 1-2 semanas se le hara saber si quedara contratado o no.")
+print("Si tiene alguna pregunta o queja, favor de comunicarse al numero que aparecera a continuacion o via correo electronico.")
+print("Numero de telefono: 4568-9852")
+print("Correo electronico: empresa@gmail.com")
